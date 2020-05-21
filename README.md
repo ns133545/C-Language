@@ -1,2 +1,2 @@
-# C Data Structures
-Here have some data structure codes
+# C Language and Data Structures
+Here have some C language and  data structure codes
